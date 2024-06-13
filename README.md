@@ -5,3 +5,5 @@
    *init        *add <file>
    *status      *commit -m ""
    *diff        *diff --staged
+   *log         *restore 
+   *restore -s  *push
