@@ -1,0 +1,1 @@
+- [ ] Escrever os comandos restantes do README.md
