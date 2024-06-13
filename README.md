@@ -7,3 +7,4 @@
    *diff        *diff --staged
    *log         *restore 
    *restore -s  *push
+   *pull
