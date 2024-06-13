@@ -1,3 +1,6 @@
-# Curso digital: Git
+# Curso digital: Git/ Versionamento
 
 ## Gravando mudanças no repositório.
+   # Comandos abordados até agora #
+   *init        *add <file>
+   *status      *commit -m ""
