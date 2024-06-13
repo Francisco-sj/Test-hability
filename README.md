@@ -4,3 +4,4 @@
    # Comandos abordados até agora #
    *init        *add <file>
    *status      *commit -m ""
+   *diff        *diff --staged
